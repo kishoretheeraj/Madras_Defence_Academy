@@ -10,7 +10,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //kishore theeraj
-        //Dhanush
+        //kishoretheeraj
+        //feature 1
+        //feature 2
     }
 }
